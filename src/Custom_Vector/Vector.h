@@ -5,7 +5,6 @@ class Vector
         Vector(const Vector& rhs);
         Vector(int element, int value=0);
 
-
         ~Vector();
 
         void PushBack(int value);

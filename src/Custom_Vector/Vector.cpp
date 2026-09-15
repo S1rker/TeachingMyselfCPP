@@ -1,11 +1,28 @@
 #include "Vector.h"
 
 Vector::Vector()
-    :   size(0),
-        capacity(5),
-        array(new int[capacity])
+    : size(0),
+      capacity(5),
+      array(new int[capacity])
 {
+}
 
+Vector::Vector(const Vector& rhs)
+    : size(rhs.size),
+      capacity(rhs.capacity),
+      array(new int[capacity])
+{
+    for (int i = 0; i < rhs.Size(); ++i)
+        array[i] = rhs.array[i];
+}
+
+Vector::Vector(int element, int value)
+    : size(element),
+      capacity(element > 0 ? element : 5),
+      array(new int[capacity])
+{
+    for (int i = 0; i < size; ++i)
+        array[i] = value;
 }
 
 Vector::~Vector()
@@ -21,7 +38,7 @@ void Vector::PushBack(int value)
 
 bool Vector::Empty() const
 {
-    return Size == 0;
+    return size == 0;
 }
  
 int Vector::Size() const
