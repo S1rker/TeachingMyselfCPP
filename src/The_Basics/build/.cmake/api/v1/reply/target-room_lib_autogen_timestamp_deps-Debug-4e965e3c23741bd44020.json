@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"include/room/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "room_lib_autogen_timestamp_deps::@a391153864bfb51f9dee",
+	"isGeneratorProvided" : true,
+	"name" : "room_lib_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "include/room",
+		"source" : "include/room"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

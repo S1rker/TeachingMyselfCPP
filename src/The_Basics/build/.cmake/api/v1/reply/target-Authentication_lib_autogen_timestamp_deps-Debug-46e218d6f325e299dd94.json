@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"include/authentication/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "Authentication_lib_autogen_timestamp_deps::@377671eee0f0e330b516",
+	"isGeneratorProvided" : true,
+	"name" : "Authentication_lib_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "include/authentication",
+		"source" : "include/authentication"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

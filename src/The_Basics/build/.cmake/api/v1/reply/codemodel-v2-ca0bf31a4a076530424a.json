@@ -1,0 +1,256 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "include",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-include-Debug-7ead17b99bffc88b66bb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "include",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "include/authentication",
+					"jsonFile" : "directory-include.authentication-Debug-8a58a1a8495f358e721e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "include/authentication",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "include/room",
+					"jsonFile" : "directory-include.room-Debug-e03b3aa5f8335beb5051.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "include/room",
+					"targetIndexes" : 
+					[
+						12,
+						13,
+						14
+					]
+				},
+				{
+					"build" : "include/login",
+					"jsonFile" : "directory-include.login-Debug-c77b9aa38817c92f99a8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "include/login",
+					"targetIndexes" : 
+					[
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "Test",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "Authentication_lib::@377671eee0f0e330b516",
+					"jsonFile" : "target-Authentication_lib-Debug-6bafce56215696cc5dfb.json",
+					"name" : "Authentication_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Authentication_lib_autogen::@377671eee0f0e330b516",
+					"jsonFile" : "target-Authentication_lib_autogen-Debug-b984c882feda654c877e.json",
+					"name" : "Authentication_lib_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Authentication_lib_autogen_timestamp_deps::@377671eee0f0e330b516",
+					"jsonFile" : "target-Authentication_lib_autogen_timestamp_deps-Debug-46e218d6f325e299dd94.json",
+					"name" : "Authentication_lib_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Test-Debug-9b3284c555b1af56a84f.json",
+					"name" : "Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Test_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Test_autogen-Debug-c8da3d0a5bc52667332c.json",
+					"name" : "Test_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Test_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Test_autogen_timestamp_deps-Debug-4d205afc491b65cc5285.json",
+					"name" : "Test_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "include_lib::@14b3099d61bfdbeae804",
+					"jsonFile" : "target-include_lib-Debug-69168a6d3d2f5ccd8d84.json",
+					"name" : "include_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "include_lib_autogen::@14b3099d61bfdbeae804",
+					"jsonFile" : "target-include_lib_autogen-Debug-4ada01ad10e13474e706.json",
+					"name" : "include_lib_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "include_lib_autogen_timestamp_deps::@14b3099d61bfdbeae804",
+					"jsonFile" : "target-include_lib_autogen_timestamp_deps-Debug-e36b3b6267b861459b21.json",
+					"name" : "include_lib_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "login_lib::@322fafe605bcbfe5244c",
+					"jsonFile" : "target-login_lib-Debug-20fbeab7f75e4e28650c.json",
+					"name" : "login_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "login_lib_autogen::@322fafe605bcbfe5244c",
+					"jsonFile" : "target-login_lib_autogen-Debug-c7a6ebd7cdf8af4e9f6d.json",
+					"name" : "login_lib_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "login_lib_autogen_timestamp_deps::@322fafe605bcbfe5244c",
+					"jsonFile" : "target-login_lib_autogen_timestamp_deps-Debug-3955d68886c866ce9207.json",
+					"name" : "login_lib_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "room_lib::@a391153864bfb51f9dee",
+					"jsonFile" : "target-room_lib-Debug-f93c753f5978e9d1b24a.json",
+					"name" : "room_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "room_lib_autogen::@a391153864bfb51f9dee",
+					"jsonFile" : "target-room_lib_autogen-Debug-1e28e0db621a5cb171a1.json",
+					"name" : "room_lib_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "room_lib_autogen_timestamp_deps::@a391153864bfb51f9dee",
+					"jsonFile" : "target-room_lib_autogen_timestamp_deps-Debug-4e965e3c23741bd44020.json",
+					"name" : "room_lib_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build",
+		"source" : "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

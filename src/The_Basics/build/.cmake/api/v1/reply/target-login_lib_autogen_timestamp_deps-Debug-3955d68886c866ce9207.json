@@ -1,0 +1,34 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"include/login/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Authentication_lib::@377671eee0f0e330b516"
+		}
+	],
+	"id" : "login_lib_autogen_timestamp_deps::@322fafe605bcbfe5244c",
+	"isGeneratorProvided" : true,
+	"name" : "login_lib_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "include/login",
+		"source" : "include/login"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

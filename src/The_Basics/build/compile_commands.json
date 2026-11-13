@@ -1,0 +1,80 @@
+[
+{
+  "directory": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DSQLITE_ENABLE_COLUMN_METADATA -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/Test_autogen/include -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/room -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/authentication -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/login -isystem /opt/homebrew/include/QtCore -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include/QtWidgets -isystem /opt/homebrew/include/QtGui -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -Wall -idirafter /opt/homebrew/include -o CMakeFiles/Test.dir/Test_autogen/mocs_compilation.cpp.o -c /Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/Test_autogen/mocs_compilation.cpp",
+  "file": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/Test_autogen/mocs_compilation.cpp",
+  "output": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/CMakeFiles/Test.dir/Test_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DSQLITE_ENABLE_COLUMN_METADATA -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/Test_autogen/include -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/room -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/authentication -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/login -isystem /opt/homebrew/include/QtCore -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include/QtWidgets -isystem /opt/homebrew/include/QtGui -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -Wall -idirafter /opt/homebrew/include -o CMakeFiles/Test.dir/main.cpp.o -c /Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/main.cpp",
+  "file": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/main.cpp",
+  "output": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/CMakeFiles/Test.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DSQLITE_ENABLE_COLUMN_METADATA -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/include_lib_autogen/include -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/room -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/authentication -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/login -isystem /opt/homebrew/include/QtCore -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include/QtWidgets -isystem /opt/homebrew/include/QtGui -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -Wall -idirafter /opt/homebrew/include -o include/CMakeFiles/include_lib.dir/include_lib_autogen/mocs_compilation.cpp.o -c /Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/include_lib_autogen/mocs_compilation.cpp",
+  "file": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/include_lib_autogen/mocs_compilation.cpp",
+  "output": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/CMakeFiles/include_lib.dir/include_lib_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DSQLITE_ENABLE_COLUMN_METADATA -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/include_lib_autogen/include -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/room -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/authentication -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/login -isystem /opt/homebrew/include/QtCore -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include/QtWidgets -isystem /opt/homebrew/include/QtGui -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -Wall -idirafter /opt/homebrew/include -o include/CMakeFiles/include_lib.dir/MainWindow.cpp.o -c /Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/MainWindow.cpp",
+  "file": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/MainWindow.cpp",
+  "output": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/CMakeFiles/include_lib.dir/MainWindow.cpp.o"
+},
+{
+  "directory": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build",
+  "command": "/usr/bin/clang++ -DDB_PATH=\\\"/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/app.sqlite\\\" -DMIGRATIONS_DIR=\\\"/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/migrations\\\" -DQT_CORE_LIB -DQT_NETWORK_LIB -DSQLITE_ENABLE_COLUMN_METADATA -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/authentication/Authentication_lib_autogen/include -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/authentication -isystem /opt/homebrew/include -isystem /opt/homebrew/include/QtCore -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include/QtNetwork -g -std=gnu++17 -arch arm64 -Wall -idirafter /opt/homebrew/include -o include/authentication/CMakeFiles/Authentication_lib.dir/Authentication_lib_autogen/mocs_compilation.cpp.o -c /Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/authentication/Authentication_lib_autogen/mocs_compilation.cpp",
+  "file": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/authentication/Authentication_lib_autogen/mocs_compilation.cpp",
+  "output": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/authentication/CMakeFiles/Authentication_lib.dir/Authentication_lib_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build",
+  "command": "/usr/bin/clang++ -DDB_PATH=\\\"/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/app.sqlite\\\" -DMIGRATIONS_DIR=\\\"/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/migrations\\\" -DQT_CORE_LIB -DQT_NETWORK_LIB -DSQLITE_ENABLE_COLUMN_METADATA -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/authentication/Authentication_lib_autogen/include -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/authentication -isystem /opt/homebrew/include -isystem /opt/homebrew/include/QtCore -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include/QtNetwork -g -std=gnu++17 -arch arm64 -Wall -idirafter /opt/homebrew/include -o include/authentication/CMakeFiles/Authentication_lib.dir/Authentication.cpp.o -c /Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/authentication/Authentication.cpp",
+  "file": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/authentication/Authentication.cpp",
+  "output": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/authentication/CMakeFiles/Authentication_lib.dir/Authentication.cpp.o"
+},
+{
+  "directory": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build",
+  "command": "/usr/bin/clang++ -DDB_PATH=\\\"/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/app.sqlite\\\" -DMIGRATIONS_DIR=\\\"/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/migrations\\\" -DQT_CORE_LIB -DQT_NETWORK_LIB -DSQLITE_ENABLE_COLUMN_METADATA -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/authentication/Authentication_lib_autogen/include -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/authentication -isystem /opt/homebrew/include -isystem /opt/homebrew/include/QtCore -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include/QtNetwork -g -std=gnu++17 -arch arm64 -Wall -idirafter /opt/homebrew/include -o include/authentication/CMakeFiles/Authentication_lib.dir/migrate.cpp.o -c /Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/authentication/migrate.cpp",
+  "file": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/authentication/migrate.cpp",
+  "output": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/authentication/CMakeFiles/Authentication_lib.dir/migrate.cpp.o"
+},
+{
+  "directory": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build",
+  "command": "/usr/bin/clang++ -DDB_PATH=\\\"/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/app.sqlite\\\" -DMIGRATIONS_DIR=\\\"/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/migrations\\\" -DQT_CORE_LIB -DQT_NETWORK_LIB -DSQLITE_ENABLE_COLUMN_METADATA -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/authentication/Authentication_lib_autogen/include -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/authentication -isystem /opt/homebrew/include -isystem /opt/homebrew/include/QtCore -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include/QtNetwork -g -std=gnu++17 -arch arm64 -Wall -idirafter /opt/homebrew/include -o include/authentication/CMakeFiles/Authentication_lib.dir/passwordHasher.cpp.o -c /Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/authentication/passwordHasher.cpp",
+  "file": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/authentication/passwordHasher.cpp",
+  "output": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/authentication/CMakeFiles/Authentication_lib.dir/passwordHasher.cpp.o"
+},
+{
+  "directory": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DSQLITE_ENABLE_COLUMN_METADATA -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/room/room_lib_autogen/include -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/room -isystem /opt/homebrew/include -isystem /opt/homebrew/include/QtCore -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include/QtWidgets -isystem /opt/homebrew/include/QtGui -g -std=gnu++17 -arch arm64 -Wall -idirafter /opt/homebrew/include -o include/room/CMakeFiles/room_lib.dir/room_lib_autogen/mocs_compilation.cpp.o -c /Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/room/room_lib_autogen/mocs_compilation.cpp",
+  "file": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/room/room_lib_autogen/mocs_compilation.cpp",
+  "output": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/room/CMakeFiles/room_lib.dir/room_lib_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DSQLITE_ENABLE_COLUMN_METADATA -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/room/room_lib_autogen/include -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/room -isystem /opt/homebrew/include -isystem /opt/homebrew/include/QtCore -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include/QtWidgets -isystem /opt/homebrew/include/QtGui -g -std=gnu++17 -arch arm64 -Wall -idirafter /opt/homebrew/include -o include/room/CMakeFiles/room_lib.dir/MessageRoom.cpp.o -c /Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/room/MessageRoom.cpp",
+  "file": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/room/MessageRoom.cpp",
+  "output": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/room/CMakeFiles/room_lib.dir/MessageRoom.cpp.o"
+},
+{
+  "directory": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/login/login_lib_autogen/include -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/login -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/authentication -isystem /opt/homebrew/include/QtCore -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include/QtWidgets -isystem /opt/homebrew/include/QtGui -g -std=gnu++17 -arch arm64 -Wall -idirafter /opt/homebrew/include -o include/login/CMakeFiles/login_lib.dir/login_lib_autogen/mocs_compilation.cpp.o -c /Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/login/login_lib_autogen/mocs_compilation.cpp",
+  "file": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/login/login_lib_autogen/mocs_compilation.cpp",
+  "output": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/login/CMakeFiles/login_lib.dir/login_lib_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/login/login_lib_autogen/include -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/login -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/authentication -isystem /opt/homebrew/include/QtCore -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include/QtWidgets -isystem /opt/homebrew/include/QtGui -g -std=gnu++17 -arch arm64 -Wall -idirafter /opt/homebrew/include -o include/login/CMakeFiles/login_lib.dir/loginScreen.cpp.o -c /Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/login/loginScreen.cpp",
+  "file": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/login/loginScreen.cpp",
+  "output": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/login/CMakeFiles/login_lib.dir/loginScreen.cpp.o"
+},
+{
+  "directory": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/login/login_lib_autogen/include -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/login -I/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/authentication -isystem /opt/homebrew/include/QtCore -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include/QtWidgets -isystem /opt/homebrew/include/QtGui -g -std=gnu++17 -arch arm64 -Wall -idirafter /opt/homebrew/include -o include/login/CMakeFiles/login_lib.dir/signUpDialog.cpp.o -c /Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/login/signUpDialog.cpp",
+  "file": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/include/login/signUpDialog.cpp",
+  "output": "/Users/cartermoon/projects/MyGuideToCPP/src/The_Basics/build/include/login/CMakeFiles/login_lib.dir/signUpDialog.cpp.o"
+}
+]

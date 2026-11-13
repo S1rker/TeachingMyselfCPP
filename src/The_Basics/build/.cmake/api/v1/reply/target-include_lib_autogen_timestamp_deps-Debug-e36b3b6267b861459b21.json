@@ -1,0 +1,42 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"include/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Authentication_lib::@377671eee0f0e330b516"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "room_lib::@a391153864bfb51f9dee"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "login_lib::@322fafe605bcbfe5244c"
+		}
+	],
+	"id" : "include_lib_autogen_timestamp_deps::@14b3099d61bfdbeae804",
+	"isGeneratorProvided" : true,
+	"name" : "include_lib_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "include",
+		"source" : "include"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
